@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtU6i/X6bCRmNTH3GWmfBrGxuMCgxdYTOIbKtOedzL3CEh/14ihq/x7J6K3tyh2Qn+I465IdjTBgTKO2x7Im1Q==",
+  "success": true,
+  "projectFilePath": "C:\\U-ISRAEL-CARRERA\\Desarrollo Movil\\Semana 4\\LogronoExamen\\LogronoExamen.iOS\\LogronoExamen.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
